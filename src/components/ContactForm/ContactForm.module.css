@@ -1,0 +1,22 @@
+.form {
+  width: 360px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px;
+}
+
+.inputBlock {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input {
+  width: 240px;
+}
+
+.button {
+  background-color: darkseagreen;
+  border: 1px solid green;
+  border-radius: 3px;
+}

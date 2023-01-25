@@ -1,0 +1,6 @@
+.filter {
+  display: flex;
+  gap: 5px;
+  color: darkgreen;
+  padding: 20px;
+}

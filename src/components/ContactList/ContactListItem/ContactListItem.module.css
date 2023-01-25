@@ -1,0 +1,15 @@
+.listItem {
+  width: 400px;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 16;
+}
+
+.button {
+  background-color: transparent;
+  color: red;
+  border: 2px solid red;
+  border-radius: 3px;
+}
